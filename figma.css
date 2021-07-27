@@ -1,0 +1,8 @@
+.logofigma{
+    height: 60px;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+#dropdown-menulist{background-color: white};
+
