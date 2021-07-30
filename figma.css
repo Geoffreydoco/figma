@@ -1,8 +1,94 @@
-.logofigma{
-    height: 60px;
+.logofigma {
+  height: 60px;
 }
 .dropdown:hover .dropdown-menu {
-    display: block;
+  display: block;
 }
-#dropdown-menulist{background-color: white};
+#dropdown-menulist {
+  background-color: white;
+}
+
+#bloc1,
+#bloc4,
+#bloc6 {
+  background-color: rgba(105, 155, 247);
+}
+
+.bloctext {
+  padding-left: 30px;
+}
+
+.bloctext:first-child {
+  padding-top: 20px;
+}
+.hamburger {
+  height: 30px;
+  width: 30px;
+}
+
+#image_1 {
+  height: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#getstarted {
+  margin-left: 150px;
+}
+
+.verticalelement {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.video {
+  max-width: 85%;
+  height: auto;
+  margin-left: 30px;
+}
+bloc4 {
+  height: 600px;
+}
+.list-stars {
+  list-style: '*';
+}
+.imgbloc7 {
+  height: 350px;
+  margin-left: 40px;
+}
+.titleseven {
+  margin-right: 5%;
+  margin-left: 5%;
+}
+a {
+  text-decoration: none !important;
+}
+a:hover {
+  text-decoration: underline !important;
+}
+.signup {
+  width: 300px;
+}
+.gofgoogleimg{
+  width: 15px;
+}
+.socialogo{
+  width: 30px;
+  color: black;
+  background-color: white;
+}
+
+.createaccount{
+border-color: black !important;
+width: 300px !important;
+}
+.captcha {
+  font-size: 11px;
+}
+
+.mb-2>*, .blacklink {
+  color: rgb(70, 67, 67) !important;
+}
+.nobug{list-style: none;}
 
