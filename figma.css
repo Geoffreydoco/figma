@@ -92,3 +92,45 @@ width: 300px !important;
 }
 .nobug{list-style: none;}
 
+@media (min-width: 768px){
+.buttonsticky {
+  position: fixed;
+  right: 10px;
+}
+.bartop {
+  margin-right: 100px;
+}
+}
+
+*{
+  scroll-snap-type: y mandatory;}
+
+#bloc1,
+#bloc2,
+#bloc3,
+#bloc4,
+#bloc5,
+#bloc6,
+#bloc7,
+.scroll{
+  
+  scroll-snap-align: start;
+
+}
+
+.figjam {
+ width: 200px; 
+}
+
+.lv {
+  width: 2px;
+  height: 100px;
+  background-color: black;
+}
+.beta {
+  color: purple;
+  border: 1px solid purple;
+  border-radius: 3px;
+  padding: 0px 4px;
+
+}
